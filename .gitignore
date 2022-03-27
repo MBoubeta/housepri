@@ -1,0 +1,35 @@
+# IDEs
+# Intellij
+/.idea/
+
+# vscode
+/.vscode/
+.devcontainer
+
+# DBeaver
+.dbeaver
+.project
+.settings
+
+# PYTHON
+# byte-compiled / optimized / DLL files
+__pycache__
+*.py[cod]
+*$py.class
+
+# environment folder
+env
+
+# config files
+**/config/*.yml
+
+# temp files
+tmp
+
+# Unit test / coverage reports
+.tox/
+
+# DATAFILES
+/housepri/data/*.csv
+/housepri/models/*.pkl
+

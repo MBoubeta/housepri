@@ -90,14 +90,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     │   │
     │   ├── models 
     │   │
-    │   │   
     │   ├── pipeline
     │   │   |
     │   |   └── set_pipeline.py
-    │   │
-    │   ├── predict
-    │   |   |
-    │   |   └── predict.py  
     │   │
     │   ├── process
     │   │   |
@@ -107,9 +102,9 @@ With 79 explanatory variables describing (almost) every aspect of residential ho
     │   │   |
     │   |   └── validation.py
     │   │
-    │   ├── train    
-    │   |   |
-    │   |   └── train.py
+    │   ├── predict.py
+    │   │
+    │   ├── train.py
     │   │
     │   └── VERSION
     │
