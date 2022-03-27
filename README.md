@@ -21,14 +21,14 @@
   <p align="center">
     Houses prices prediction
     <br />
-    <a href="https://github.com/MBoubeta/house-prices"><strong>Explore the docs »</strong></a>
+    <a href="https://github.com/MBoubeta/housepri"><strong>Explore the docs »</strong></a>
     <br />
     <br />
-    <a href="https://github.com/MBoubeta/house-prices">View Demo</a>
+    <a href="https://github.com/MBoubeta/housepri">View Demo</a>
     ·
-    <a href="https://github.com/MBoubeta/house-prices">Report Bug</a>
+    <a href="https://github.com/MBoubeta/housepri">Report Bug</a>
     ·
-    <a href="https://github.com/MBoubeta/house-prices">Request Feature</a>
+    <a href="https://github.com/MBoubeta/housepri">Request Feature</a>
   </p>
 </p>
 
@@ -153,15 +153,15 @@ Run this tox command to create a virtual environment in Python, install the nece
    
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
-[contributors-shield]: https://img.shields.io/github/contributors/MBoubeta/house-prices.svg?style=for-the-badge
-[contributors-url]: https://github.com/MBoubeta/house-prices/graphs/contributors
-[forks-shield]: https://img.shields.io/github/forks/MBoubeta/house-prices.svg?style=for-the-badge
-[forks-url]: https://github.com/MBoubeta/house-prices/network/members
-[stars-shield]: https://img.shields.io/github/stars/MBoubeta/house-prices.svg?style=for-the-badge
-[stars-url]: https://github.com/MBoubeta/house-prices/stargazers
-[issues-shield]: https://img.shields.io/github/issues/MBoubeta/house-prices.svg?style=for-the-badge
-[issues-url]: https://github.com/MBoubeta/house-prices/issues
-[license-shield]: https://img.shields.io/github/license/MBoubeta/house-prices.svg?style=for-the-badge
-[license-url]: https://github.com/MBoubeta/house-prices/blob/master/LICENSE.txt
+[contributors-shield]: https://img.shields.io/github/contributors/MBoubeta/housepri.svg?style=for-the-badge
+[contributors-url]: https://github.com/MBoubeta/housepri/graphs/contributors
+[forks-shield]: https://img.shields.io/github/forks/MBoubeta/housepri.svg?style=for-the-badge
+[forks-url]: https://github.com/MBoubeta/housepri/network/members
+[stars-shield]: https://img.shields.io/github/stars/MBoubeta/housepri.svg?style=for-the-badge
+[stars-url]: https://github.com/MBoubeta/housepri/stargazers
+[issues-shield]: https://img.shields.io/github/issues/MBoubeta/housepri.svg?style=for-the-badge
+[issues-url]: https://github.com/MBoubeta/housepri/issues
+[license-shield]: https://img.shields.io/github/license/MBoubeta/housepri.svg?style=for-the-badge
+[license-url]: https://github.com/MBoubeta/housepri/blob/master/LICENSE.txt
 [linkedin-shield]: https://img.shields.io/badge/-LinkedIn-black.svg?style=for-the-badge&logo=linkedin&colorB=555
 [linkedin-url]: https://www.linkedin.com/in/miguel-boubeta-martinez/
